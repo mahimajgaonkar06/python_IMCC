@@ -1,0 +1,21 @@
+text1 = input("Enter a string: ")
+# USING UPPER()
+result = text1.upper()
+print("Uppercase string:", result)
+# USING LOWER()
+res2=text1.lower()
+# USING TITLE()
+res3 = text1.title()
+
+print("Title case:", result)
+print("lower case: ",res2)
+
+text2=input("enter string to capitalize: ")
+# USING CAPITALIZE()
+disp1=text2.capitalize()
+print("capitalize string: ",disp1)
+
+text3 = input("Enter a string to swap the case: ")
+# USING SWAPCASE()
+disp2 = text3.swapcase()
+print("Swapped case:", disp2)
