@@ -37,11 +37,6 @@ print(result)
 result=text.split("/")
 print(result)
 
-#join
-text2=["welcome","to","the","world","of","Python"]
-result=text2.join()
-print(result)
-
 # partition
 result=text.partition("come")
 print(result)
