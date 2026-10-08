@@ -14,3 +14,9 @@ print("max element: ",List[-1])
 new=List[3]%3
 List.insert(6,new)
 print(List)
+
+
+text=input("enter string: ")
+sorted(text)
+print("max: ",text[0])
+print("min: ",text[-1])
