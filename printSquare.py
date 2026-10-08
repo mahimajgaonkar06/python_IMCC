@@ -1,3 +1,5 @@
+
+# printing n number of squares 
 s=int(input("enter Starting number: "))
 n=int(input("Enter ending number: "))
 sq=0
