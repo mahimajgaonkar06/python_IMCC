@@ -1,0 +1,4 @@
+hello this is second file
+ reading lines from file into list,
+ Printing the total num of lines.
+ adding a fourth line.
